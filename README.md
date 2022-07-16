@@ -1,6 +1,6 @@
 ## Microsoft365.com/setup | Sign In to Microsoft 365 | Download & Install Office 365
 
-[![Microsoft365.com/setup](getstarted.png)](https://istartsetup.com/)
+[![Microsoft365.com/setup](Getstarted.png)]()
 
 
 Create an account at microsoft365.com/setup or use a Microsoft service account like 
